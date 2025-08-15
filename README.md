@@ -9,8 +9,6 @@ This tool lets users enter their weight and height to instantly calculate their 
 ![BMI Calculator Screenshot](screenshots/1.png)  
 ![BMI Calculator Screenshot](screenshots/1.png)  
 
-*(Replace `assets/screenshot.png` with your actual image path or link)*
-
 ---
 
 ## ✨ Features
